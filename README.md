@@ -24,9 +24,14 @@
 
 
 ## 🌐 Socials:
-<div align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16vmYxDQVX/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/4amir.dairies/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirgheewale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2bd2PRl8A) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AamirGheewale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamirgheewale142210@gmail.com)
-</div>
+<p align="center">
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16vmYxDQVX/) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/4amir.dairies/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.in/aamirgheewale) 
+  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2bd2PRl8A) 
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AamirGheewale) 
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamirgheewale142210@gmail.com)
+</p>
 
 # 💻 Tech Stack:
 <details>
