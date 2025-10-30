@@ -6,9 +6,9 @@
 
   <br><br>
   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer GIF" width="40%" align="left" style="margin-right: 30px;">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer GIF" width="40%" align="left" style="margin-right: 25px;">
 
-<div style="overflow: auto;">
+<div style="overflow: auto; margin-left: 25px;">
 <strong>👋 About Me:</strong>
 <br><br>
 🔭 <strong>Working on:</strong> A full-stack + ML app to analyze and document code.<br>
