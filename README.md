@@ -31,10 +31,10 @@
   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2bd2PRl8A) 
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AamirGheewale) 
   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamirgheewale142210@gmail.com)
-<
+
 
 # 💻 Tech Stack:
-<details>
+<details style= "align:center";>
   <summary><strong>➡️ Languages & Markup:</strong></summary>
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,php,r" alt="My Languages"/>
