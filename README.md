@@ -12,12 +12,11 @@
 <strong>👋 About Me:</strong>
 <br><br>
 🔭 <strong>Working on:</strong> A full-stack + ML app to analyze and document code.<br>
-👯 <strong>Collaborate on:</strong> Open-source web development projects.<br>
+⚡ <strong>At present:</strong> I'm a Student and Full-Stack Developer.<br>
 🤔 <strong>Looking for help with:</strong> Advanced back-end concepts.<br>
-🌱 <strong>Learning:</strong> SvelteKit, FastAPI, and Next.js.<br>
+🌱 <strong>Learning:</strong> Node, Express, Next.js <br>
 💬 <strong>Ask me about:</strong> Building full-stack MERN applications.<br>
-⚡ <strong>Fun fact:</strong> When not coding, I'm probably searching for the perfect cup of chai.
-</div>
+ </div>
 
 <br clear="both">
 
