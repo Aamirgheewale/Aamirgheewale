@@ -4,13 +4,14 @@
   Hey There, Aamir This Side!<img src="https://github.com/Aamirgheewale/Aamirgheewale/blob/main/giphy.gif" width="30px">
 </h1>
 
-
+  <br><br>
+  
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer GIF" width="45%" align="left" hspace="20">
 
-<p>
+<p left-padding="10px">
   <strong>👋 About Me:</strong>
   <br><br>
-  🔭 I'm currently working on A full-stack + ML web application for Analyzing code and convert in into readable document.<br>
+  🔭 I'm currently working on A full-stack + ML web application, Analyze and convert code in into document.<br>
   👯 I'm looking to collaborate on exciting open-source projects in the web development<br>
   🤔 I'm looking for help with advanced concepts in Backend<br>
   🌱 I'm currently learning new frameworks like 'SvelteKit', 'FastAPI',  'Next.js' ....<br>
