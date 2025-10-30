@@ -12,11 +12,11 @@
 <strong>👋 About Me:</strong>
 <br><br>
 🔭 <strong>Working on:</strong> A full-stack + ML app to analyze and document code.<br>
-👯 **Collaborate on:** Open-source web development projects.<br>
-🤔 **Looking for help with:** Advanced back-end concepts.<br>
-🌱 **Learning:** SvelteKit, FastAPI, and Next.js.<br>
-💬 **Ask me about:** Building full-stack MERN applications.<br>
-⚡ **Fun fact:** When not coding, I'm probably searching for the perfect cup of chai.
+👯 <strong>Collaborate on:</strong> Open-source web development projects.<br>
+🤔 <strong>Looking for help with:</strong> Advanced back-end concepts.<br>
+🌱 <strong>Learning:</strong> SvelteKit, FastAPI, and Next.js.<br>
+💬 <strong>Ask me about:</strong> Building full-stack MERN applications.<br>
+⚡ <strong>Fun fact:</strong> When not coding, I'm probably searching for the perfect cup of chai.
 </div>
 
 <br clear="both">
