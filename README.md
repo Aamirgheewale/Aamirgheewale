@@ -11,12 +11,17 @@
 <div style="overflow: auto;">
   <strong>👋 About Me:</strong>
   <br><br>
-  🔭 I'm currently working on A full-stack + ML web application, Analyze and convert code in into document.<br>
-  👯 I'm looking to collaborate on exciting open-source projects in the web development<br>
-  🤔 I'm looking for help with advanced concepts in Backend<br>
-  🌱 I'm currently learning new frameworks like 'SvelteKit', 'FastAPI',  'Next.js' ....<br>
-  💬 Ask me about building full-stack applications with the 'MERN' stack.<br>
-  ⚡ Fun fact When I'm not coding, I'm probably searching for the perfect cup of chai.
+  🔭 Working on: A full-stack + ML app to analyze and document code.
+
+👯 Collaborate on: Open-source web development projects.
+
+🤔 Looking for help with: Advanced back-end concepts.
+
+🌱 Learning: SvelteKit, FastAPI, and Next.js.
+
+💬 Ask me about: Building full-stack MERN applications.
+
+⚡ Fun fact: When not coding, I'm probably searching for the perfect cup of chai.
 </div>
 
 <br clear="both">
