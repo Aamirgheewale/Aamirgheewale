@@ -6,35 +6,41 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16vmYxDQVX/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/4amir.dairies/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirgheewale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2bd2PRl8A) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AamirGheewale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamirgheewale142210@gmail.com)
 
 # 💻 Tech Stack:
-<p align="left">
-  <strong>Languages & Markup:</strong><br>
+<details>
+  <summary><strong>➡️ Languages & Markup:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,php,r" alt="My Languages"/>
-</p>
+</details>
 
-<p align="left">
-  <strong>Frameworks & Libraries:</strong><br>
+<details>
+  <summary><strong>➡️ Frameworks & Libraries:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,vue,svelte" alt="My Frameworks"/>
-</p>
+</details>
 
-<p align="left">
-  <strong>Databases:</strong><br>
+<details>
+  <summary><strong>➡️ Databases:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" alt="My Databases"/>
-</p>
+</details>
 
-<p align="left">
-  <strong>DevOps & Hosting:</strong><br>
+<details>
+  <summary><strong>➡️ DevOps & Hosting:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=docker,gcp,netlify,jenkins" alt="My DevOps Tools"/>
-</p>
+</details>
 
-<p align="left">
-  <strong>Tools & Software:</strong><br>
+<details>
+  <summary><strong>➡️ Tools & Software:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=github,postman,notion,cypress" alt="My Tools"/>
-</p>
+</details>
 
-<p align="left">
-  <strong>Design:</strong><br>
+<details>
+  <summary><strong>➡️ Design:</strong></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=figma,canva" alt="My Design Tools"/>
-</p>
+</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aamirgheewale&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
