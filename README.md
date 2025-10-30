@@ -11,7 +11,7 @@
 <div style="overflow: auto;">
 <strong>👋 About Me:</strong>
 <br><br>
-🔭 **Working on:** A full-stack + ML app to analyze and document code.<br>
+🔭 <strong>Working on:</strong> A full-stack + ML app to analyze and document code.<br>
 👯 **Collaborate on:** Open-source web development projects.<br>
 🤔 **Looking for help with:** Advanced back-end concepts.<br>
 🌱 **Learning:** SvelteKit, FastAPI, and Next.js.<br>
