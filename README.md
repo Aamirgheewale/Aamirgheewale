@@ -34,7 +34,7 @@
 
 
 # 💻 Tech Stack:
-<details style= "align:center";>
+<details>
   <summary><strong>➡️ Languages & Markup:</strong></summary>
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,php,r" alt="My Languages"/>
