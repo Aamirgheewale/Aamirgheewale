@@ -9,24 +9,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer GIF" width="40%" align="left" style="margin-right: 25px;">
 
 <div style="overflow: auto;">
-  <strong>👋 About Me:</strong>
-  <br><br>
-  🔭 Working on: A full-stack + ML app to analyze and document code.
-
-👯 Collaborate on: Open-source web development projects.
-
-🤔 Looking for help with: Advanced back-end concepts.
-
-🌱 Learning: SvelteKit, FastAPI, and Next.js.
-
-💬 Ask me about: Building full-stack MERN applications.
-
-⚡ Fun fact: When not coding, I'm probably searching for the perfect cup of chai.
+<strong>👋 About Me:</strong>
+<br><br>
+🔭 **Working on:** A full-stack + ML app to analyze and document code.<br>
+👯 **Collaborate on:** Open-source web development projects.<br>
+🤔 **Looking for help with:** Advanced back-end concepts.<br>
+🌱 **Learning:** SvelteKit, FastAPI, and Next.js.<br>
+💬 **Ask me about:** Building full-stack MERN applications.<br>
+⚡ **Fun fact:** When not coding, I'm probably searching for the perfect cup of chai.
 </div>
 
 <br clear="both">
 
 ---
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16vmYxDQVX/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/4amir.dairies/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamirgheewale) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2bd2PRl8A) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AamirGheewale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aamirgheewale142210@gmail.com)
 
