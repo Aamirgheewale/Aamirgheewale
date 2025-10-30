@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+![Developer GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
 🔭 I'm currently working on A full-stack + ML web application for Analyzing code and convert in into readable document.<br>👯 I'm looking to collaborate on exciting open-source projects in the web development<br>🤔 I'm looking for help with advanced concepts in Backend<br>🌱 I'm currently learning new frameworks like 'SvelteKit', 'FastAPI',  'Next.js' ....<br>💬 Ask me about building full-stack applications with the 'MERN' stack.<br>⚡ Fun fact When I'm not coding, I'm probably searching for the perfect cup of chai.
 
 
