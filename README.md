@@ -11,7 +11,7 @@
 <div style="overflow: auto; margin-left: 25px;">
 <strong>👋 About Me:</strong>
 <br><br>
-🔭 <strong>Working on:</strong> A full-stack + ML app to analyze and document code.<br>
+🔭 <strong>Working on:</strong> A full-stack Developer.<br>
 ⚡ <strong>At present:</strong> I'm a Student and Full-Stack Developer.<br>
 🤔 <strong>Looking for help with:</strong> Advanced back-end concepts.<br>
 🌱 <strong>Learning:</strong> Node, Express, Next.js <br>
